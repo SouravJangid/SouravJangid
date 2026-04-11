@@ -66,8 +66,8 @@
   <a href="https://linkedin.com/in/souravjangidsks" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-  <a href="mailto:sourav.kumar@doux.pro" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo" />
+  <a href="mailto:jangidsourav97@gmail.com" target="_blank">
+   <img src="https://img.shields.io/static/v1?message=Google&logo=google&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="google logo" />
   </a>
   <a href="https://medium.com/@jangidsourav97" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo" />
